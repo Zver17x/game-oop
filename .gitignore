@@ -1,0 +1,13 @@
+# Java builds
+out/
+*.class
+
+# IDE and OS temporary files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Developer-only generated previews
+preview/
